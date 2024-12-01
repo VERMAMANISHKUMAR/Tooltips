@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VERMAMANISHKUMAR/Tooltips/static/css/main.06001a47.css",
+    "main.js": "/VERMAMANISHKUMAR/Tooltips/static/js/main.f52b79e0.js",
+    "index.html": "/VERMAMANISHKUMAR/Tooltips/index.html",
+    "main.06001a47.css.map": "/VERMAMANISHKUMAR/Tooltips/static/css/main.06001a47.css.map",
+    "main.f52b79e0.js.map": "/VERMAMANISHKUMAR/Tooltips/static/js/main.f52b79e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06001a47.css",
+    "static/js/main.f52b79e0.js"
+  ]
+}
