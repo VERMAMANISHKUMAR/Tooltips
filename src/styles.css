@@ -1,0 +1,19 @@
+body{
+  margin: 0;
+  padding: 0;
+
+}
+.App{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: sans-serif;
+  height:100vh;
+  background-color: #222831;
+}
+h1{
+  text-align: center;
+  color: white;
+  margin-top: -20px;
+}
